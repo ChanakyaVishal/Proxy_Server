@@ -25,7 +25,7 @@ Proxy Server
 
 ### Prerequisites
 
-1) Python
+1) Python installed on system
 2) Have access to a testable server file
 
 ## Running the tests
